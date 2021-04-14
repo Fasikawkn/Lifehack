@@ -1,0 +1,1 @@
+export 'lifehack_repository.dart';
